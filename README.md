@@ -1,4 +1,4 @@
-# Hi there, I'm Furkan Emre FEDAKAR - aka [Chrysotil][github] 👋 
+# Hi there, I'm Furkan  - aka [Chrysotil][github] 👋 
 
 ## I'm just student likes coding and researching
 
