@@ -2,10 +2,10 @@
 
 ## I'm just student likes coding and researching
 
-#### - I'm still learning *Python and SQL* 
+
 #### - I'm Computer Engineering Student.
-#### - Also I like playing games.
-#### - I'm currently using Windows 10 and PopOS.
+
+
 
 ## Connect with me:
 
