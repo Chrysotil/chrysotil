@@ -1,4 +1,4 @@
-# Hi there, I'm Furkan  - aka [Chrysotil][github] 👋 
+# Hi there, I'm Furkan  - aka [Chrysotil] 👋 
 
 ## I'm just student likes coding and researching
 
@@ -26,6 +26,7 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" />
+<img align="left" alt="Unreal Engine" width="26px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" />
 <br />
 <br />
 
