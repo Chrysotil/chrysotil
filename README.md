@@ -1,15 +1,9 @@
-# Hi there, I'm Furkan  - aka [Chrysotil] 👋 
-
-## I'm just student likes coding and researching
-
-
-#### - I'm Computer Engineering Student.
-
+# Hi there, I'm Furkan   
 
 
 ## Connect with me:
 
-**You can contact me via mail:chrysotil@hotmail.com**
+**You can contact me via mail:furkanfedakar@outlook.com**
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/furkan-emre-fedakar-291925239/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/furkan-emre-fedakar-291925239/#gh-light-mode-only#gh-dark-mode-only)
